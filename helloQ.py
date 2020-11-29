@@ -1,5 +1,4 @@
 import qiskit
 
 from qiskit import IBMQ
-#IBMQ.save_account('0a1a370180673cdfc0354bf0c4ec4ea7ede8d2336c3e791c0ea3174e374b52f0a1832a87b708b5979281f4e36bb076610d5705b779fded994688b32b5fb60f73') 
 print(qiskit.__version__)
